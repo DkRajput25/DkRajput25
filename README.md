@@ -47,11 +47,29 @@
   <img src="https://img.icons8.com/color/48/intellij-idea.png" title="IntelliJ"/>
 </p>
 
+---
+
+### 📈 Activity Graph
+[![Ayush's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=i-ayushmishra&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DkRajput25/DkRajput25/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/DkRajput25/DkRajput25/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/DkRajput25/DkRajput25/blob/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+<!-- ![Snake animation](https://raw.githubusercontent.com/i-ayushmishra/i-ayushmishra/output/github-contribution-grid-snake.svg)
+ -->
 
 ## 🌐 Connect With Me
 <p align="left">
   <a href="YOUR_LINKEDIN"><img src="https://img.icons8.com/color/48/linkedin.png" title="LinkedIn"/></a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" title="LeetCode"/></a>
+  <a href="https://leetcode.com/D_K_/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" title="LeetCode"/></a>
   <a href="mailto:YOUR_EMAIL"><img src="https://img.icons8.com/color/48/gmail-new.png" title="Gmail"/></a>
 </p>
 
