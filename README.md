@@ -1,12 +1,9 @@
-<!-- Header with Typing Effect -->
 <!-- Profile Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A82FB,100:FC5C7D&height=200&section=header&text=Hey%20I'm%20Dikshant%20Chauhan%20👋&fontSize=40&fontColor=fff&animation=fadeIn" />
 </p>
 
-
-
-
+---
 
 ## 👨‍🎓 About Me
 - 🎓 MCA Student | Aspiring Backend Developer  
@@ -19,24 +16,30 @@
 
 ## 🛠️ Tech Stack
 
+### 🔤 Languages  
 <p align="center">
-  <!-- Languages -->
   <img src="https://img.icons8.com/color/48/c-programming.png" title="C"/>
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java"/>
   <img src="https://img.icons8.com/color/48/python.png" title="Python"/>
   <img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript"/>
-  
-  <!-- Frontend -->
+</p>
+
+### 🌐 Frontend  
+<p align="center">
   <img src="https://img.icons8.com/color/48/html-5.png" title="HTML"/>
   <img src="https://img.icons8.com/color/48/css3.png" title="CSS"/>
   <img src="https://img.icons8.com/color/48/bootstrap.png" title="Bootstrap"/>
   <img src="https://img.icons8.com/color/48/tailwindcss.png" title="TailwindCSS"/>
   <img src="https://img.icons8.com/color/48/react-native.png" title="React"/>
-  
-  <!-- Backend -->
+</p>
+
+### ⚙️ Backend & Frameworks  
+<p align="center">
   <img src="https://img.icons8.com/color/48/spring-logo.png" title="Spring Boot"/>
-  
-  <!-- Tools -->
+</p>
+
+### 🧰 Tools  
+<p align="center">
   <img src="https://img.icons8.com/color/48/git.png" title="Git"/>
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code"/>
   <img src="https://img.icons8.com/color/48/intellij-idea.png" title="IntelliJ"/>
@@ -46,24 +49,19 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DkRajput25&show_icons=true&theme=radical" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=DkRajput25&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DkRajput25&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=DkRajput25&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DkRajput25&layout=compact&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DkRajput25&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-
----
 
 ---
 
 ## 📈 Coding Profiles
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/D_K_?theme=dark&ext=heatmap&border=0&radius=10&width=500" />
+  <img src="https://leetcard.jacoblin.cool/D_K_?theme=dark&ext=heatmap&border=1&radius=12&width=600&font=Roboto&bg_color=0d1117&text_color=ffffff" />
 </p>
-
----
-
 
 ---
 
@@ -76,4 +74,3 @@
 </p>
 
 ---
-
