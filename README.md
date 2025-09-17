@@ -4,8 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A82FB,100:FC5C7D&height=200&section=header&text=Hey%20I'm%20Dikshant%20Chauhan%20👋&fontSize=40&fontColor=fff&animation=fadeIn" />
 </p>
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&size=24&lines=Hey+I'm+Dikshant+Chauhan;Aspiring+Backend+Developer;Learning+Java+%26+Spring+Boot;DSA+Enthusiast)](https://git.io/typing-svg)
+
 
 ---
 
@@ -44,30 +43,27 @@
 ---
 
 ## 📊 GitHub Stats
-![Dikshant's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
+![Dikshant's GitHub stats](https://github-readme-stats.vercel.app/api?username=DkRajput25&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DkRajput25&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=DkRajput25&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&margin-w=15&margin-h=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=DkRajput25&theme=radical&margin-w=15&margin-h=15)
 
 ---
 
 ## 📈 Coding Profiles
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/D_K_?theme=dark&font=Karma&ext=heatmap)
 
 ---
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/DkRajput25/DkRajput25/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 🚀 Projects
-- [Blog App](https://github.com/YOUR_USERNAME/BlogApp) — A full-stack blog platform using **Java + Spring Boot**.  
-- [Portfolio Website](https://github.com/YOUR_USERNAME/Portfolio) — Personal portfolio built with **React + Tailwind CSS**.  
 
 ---
 
