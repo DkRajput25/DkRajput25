@@ -6,7 +6,7 @@
 
 
 
----
+
 
 ## 👨‍🎓 About Me
 - 🎓 MCA Student | Aspiring Backend Developer  
@@ -19,52 +19,61 @@
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend
-![HTML5](https://img.icons8.com/color/48/html-5.png) 
-![CSS3](https://img.icons8.com/color/48/css3.png) 
-![JavaScript](https://img.icons8.com/color/48/javascript.png) 
-![Bootstrap](https://img.icons8.com/color/48/bootstrap.png) 
-![TailwindCSS](https://img.icons8.com/color/48/tailwindcss.png) 
-![React](https://img.icons8.com/color/48/react-native.png)
-
-### 🔤 Languages
-![C](https://img.icons8.com/color/48/c-programming.png)
-![Java](https://img.icons8.com/color/48/java-coffee-cup-logo.png)
-![Python](https://img.icons8.com/color/48/python.png)
-
-### ⚙️ Backend & Frameworks
-![Spring](https://img.icons8.com/color/48/spring-logo.png)
-
-### 🧰 Tools
-![Git](https://img.icons8.com/color/48/git.png)
-![VSCode](https://img.icons8.com/color/48/visual-studio-code-2019.png)
-![IntelliJ IDEA](https://img.icons8.com/color/48/intellij-idea.png)
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.icons8.com/color/48/c-programming.png" title="C"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java"/>
+  <img src="https://img.icons8.com/color/48/python.png" title="Python"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript"/>
+  
+  <!-- Frontend -->
+  <img src="https://img.icons8.com/color/48/html-5.png" title="HTML"/>
+  <img src="https://img.icons8.com/color/48/css3.png" title="CSS"/>
+  <img src="https://img.icons8.com/color/48/bootstrap.png" title="Bootstrap"/>
+  <img src="https://img.icons8.com/color/48/tailwindcss.png" title="TailwindCSS"/>
+  <img src="https://img.icons8.com/color/48/react-native.png" title="React"/>
+  
+  <!-- Backend -->
+  <img src="https://img.icons8.com/color/48/spring-logo.png" title="Spring Boot"/>
+  
+  <!-- Tools -->
+  <img src="https://img.icons8.com/color/48/git.png" title="Git"/>
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code"/>
+  <img src="https://img.icons8.com/color/48/intellij-idea.png" title="IntelliJ"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![Dikshant's GitHub stats](https://github-readme-stats.vercel.app/api?username=DkRajput25&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DkRajput25&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=DkRajput25&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DkRajput25&show_icons=true&theme=radical" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=DkRajput25&theme=radical" height="170"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DkRajput25&layout=compact&theme=radical" height="170"/>
+</p>
 
 ---
 
-
+---
 
 ## 📈 Coding Profiles
-![LeetCode Stats](https://leetcard.jacoblin.cool/D_K_?theme=dark&font=Karma&ext=heatmap)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/D_K_?theme=dark&ext=heatmap&border=0&radius=10&width=500" />
+</p>
 
 ---
-
-
 
 
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](YOUR_LINKEDIN)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_LEETCODE_USERNAME/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white)](YOUR_PORTFOLIO)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)  
+<p align="center">
+  <a href="YOUR_LINKEDIN"><img src="https://img.icons8.com/color/48/linkedin.png" title="LinkedIn"/></a>
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" title="LeetCode"/></a>
+  <a href="YOUR_PORTFOLIO"><img src="https://img.icons8.com/external-prettycons-flat-prettycons/48/external-website-multimedia-prettycons-flat-prettycons.png" title="Portfolio"/></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.icons8.com/color/48/gmail-new.png" title="Gmail"/></a>
+</p>
 
 ---
+
