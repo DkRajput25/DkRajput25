@@ -17,7 +17,7 @@
 ## 🛠️ Tech Stack
 
 ### 🔤 Languages  
-<p align="center">
+<p align="left">
   <img src="https://img.icons8.com/color/48/c-programming.png" title="C"/>
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java"/>
   <img src="https://img.icons8.com/color/48/python.png" title="Python"/>
@@ -25,7 +25,7 @@
 </p>
 
 ### 🌐 Frontend  
-<p align="center">
+<p align="left">
   <img src="https://img.icons8.com/color/48/html-5.png" title="HTML"/>
   <img src="https://img.icons8.com/color/48/css3.png" title="CSS"/>
   <img src="https://img.icons8.com/color/48/bootstrap.png" title="Bootstrap"/>
@@ -34,32 +34,34 @@
 </p>
 
 ### ⚙️ Backend & Frameworks  
-<p align="center">
+<p align="left">
   <img src="https://img.icons8.com/color/48/spring-logo.png" title="Spring Boot"/>
 </p>
 
 ### 🧰 Tools  
-<p align="center">
+<p align="left">
   <img src="https://img.icons8.com/color/48/git.png" title="Git"/>
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code"/>
   <img src="https://img.icons8.com/color/48/intellij-idea.png" title="IntelliJ"/>
 </p>
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
 ---
 
 
 
 ---
 
-## 📈 Coding Profiles
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/D_K_?theme=dark&ext=heatmap&border=1&radius=12&width=600&font=Roboto&bg_color=0d1117&text_color=ffffff" />
-</p>
 
 ---
 
 ## 🌐 Connect With Me
-<p align="center">
+<p align="left">
   <a href="YOUR_LINKEDIN"><img src="https://img.icons8.com/color/48/linkedin.png" title="LinkedIn"/></a>
   <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" title="LeetCode"/></a>
   <a href="mailto:YOUR_EMAIL"><img src="https://img.icons8.com/color/48/gmail-new.png" title="Gmail"/></a>
