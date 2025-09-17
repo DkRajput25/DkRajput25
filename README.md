@@ -49,20 +49,14 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=DkRajput25&theme=radical&margin-w=15&margin-h=15)
 
----
 
 ## 📈 Coding Profiles
 ![LeetCode Stats](https://leetcard.jacoblin.cool/D_K_?theme=dark&font=Karma&ext=heatmap)
 
 ---
 
-## 🐍 Contribution Snake
-![snake gif](https://github.com/DkRajput25/DkRajput25/blob/output/github-contribution-grid-snake.svg)
 
----
 
 
 ---
