@@ -1,6 +1,7 @@
 <!-- Header with Typing Effect -->
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=6A82FB&center=true&vCenter=true&width=700&lines=Hey!+I'm+Dikshant+Chauhan+👋;MCA+Student+%7C+Java+Backend+Developer;Passionate+about+Coding+%26+DSA;Learning+Spring+Boot+%7C+Microservices+%7C+React" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A82FB,100:FC5C7D&height=200&section=header&text=Hey%20I'm%20Dikshant%20Chauhan%20👋&fontSize=40&fontColor=fff&animation=fadeIn" />
 </p>
 
 ---
