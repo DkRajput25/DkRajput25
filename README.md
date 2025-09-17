@@ -62,7 +62,6 @@
 <p align="center">
   <a href="YOUR_LINKEDIN"><img src="https://img.icons8.com/color/48/linkedin.png" title="LinkedIn"/></a>
   <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" title="LeetCode"/></a>
-
   <a href="mailto:YOUR_EMAIL"><img src="https://img.icons8.com/color/48/gmail-new.png" title="Gmail"/></a>
 </p>
 
