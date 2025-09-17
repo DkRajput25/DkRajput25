@@ -14,18 +14,18 @@
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 🔤 Languages  
+## 🔤 Languages  
 <p align="left">
   <img src="https://img.icons8.com/color/48/c-programming.png" title="C"/>
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java"/>
   <img src="https://img.icons8.com/color/48/python.png" title="Python"/>
   <img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript"/>
 </p>
---
 
-### 🌐 Frontend  
+
+## 🌐 Frontend  
 <p align="left">
   <img src="https://img.icons8.com/color/48/html-5.png" title="HTML"/>
   <img src="https://img.icons8.com/color/48/css3.png" title="CSS"/>
@@ -33,20 +33,20 @@
   <img src="https://img.icons8.com/color/48/tailwindcss.png" title="TailwindCSS"/>
   <img src="https://img.icons8.com/color/48/react-native.png" title="React"/>
 </p>
---
 
-### ⚙️ Backend & Frameworks  
+
+## ⚙️ Backend & Frameworks  
 <p align="left">
   <img src="https://img.icons8.com/color/48/spring-logo.png" title="Spring Boot"/>
 </p>
---
-### 🧰 Tools  
+
+## 🧰 Tools  
 <p align="left">
   <img src="https://img.icons8.com/color/48/git.png" title="Git"/>
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code"/>
   <img src="https://img.icons8.com/color/48/intellij-idea.png" title="IntelliJ"/>
 </p>
----
+
 
 ## 🌐 Connect With Me
 <p align="left">
