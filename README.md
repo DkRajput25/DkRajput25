@@ -47,14 +47,7 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DkRajput25&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=DkRajput25&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DkRajput25&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+
 
 ---
 
@@ -69,7 +62,7 @@
 <p align="center">
   <a href="YOUR_LINKEDIN"><img src="https://img.icons8.com/color/48/linkedin.png" title="LinkedIn"/></a>
   <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" title="LeetCode"/></a>
-  <a href="YOUR_PORTFOLIO"><img src="https://img.icons8.com/external-prettycons-flat-prettycons/48/external-website-multimedia-prettycons-flat-prettycons.png" title="Portfolio"/></a>
+
   <a href="mailto:YOUR_EMAIL"><img src="https://img.icons8.com/color/48/gmail-new.png" title="Gmail"/></a>
 </p>
 
