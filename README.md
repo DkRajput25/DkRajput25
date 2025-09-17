@@ -50,7 +50,7 @@
 ---
 
 ### 📈 Activity Graph
-[![Ayush's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=i-ayushmishra&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Dikshant's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DkRajput25&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
