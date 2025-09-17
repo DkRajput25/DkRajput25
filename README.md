@@ -6,68 +6,65 @@
 
 ---
 
-## 👨‍💻 About Me  
-
-- 🔭 Currently working on **Java Projects & DSA**  
-- 🌱 Exploring **Spring Boot, Microservices & React**  
-- 📚 Interested in **Backend Development & System Design**  
-- ⚡ Fun fact: *Conducted a JavaScript workshop in college!* 🎉  
+💻 MCA Student | 🚀 Aspiring Backend Developer | 🌱 Learning Java, DSA & Spring Boot  
 
 ---
 
-## 💻 Programming Languages  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="60" height="60"/>
-</p>
+## 🧑‍💻 About Me
+- 🔭 Currently working on **Java Projects & DSA**
+- 🌱 Exploring **Spring Boot, Microservices & React**
+- 📚 Love learning **CS Subjects (OS, DBMS, CN, etc.)**
+- ⚡ Fun fact: *I once conducted a JavaScript workshop in college!* 🎉  
 
 ---
 
-## 🧩 Frameworks & Libraries  
+## 🛠️ Tech Stack  
 
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" alt="hibernate" width="60" height="60"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="jsp" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" alt="tomcat" width="60" height="60"/>
-</p>
+### 🌐 Frontend  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)  
+
+### 💻 Programming Languages  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+### 🧩 Backend & Frameworks  
+![Servlet](https://img.shields.io/badge/Servlets-007396?style=for-the-badge&logo=java&logoColor=white)  
+![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)  
+![JDBC](https://img.shields.io/badge/JDBC-000000?style=for-the-badge&logo=java&logoColor=white)  
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
+
+### 🗄️ Databases  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+
+### 🛠️ Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)  
 
 ---
 
-## 🛠️ Tools & Platforms  
+## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="60" height="60"/>
-</p>
+![Dikshant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUserName&theme=radical)  
 
 ---
 
 ## 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-  </a>
-  <a href="mailto:yourmail@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=portfolio" height="50" />
-  </a>
-</p>
+- 💼 LinkedIn: [Your LinkedIn Link](https://linkedin.com/in/yourprofile)  
+- 🌍 Portfolio: [Your Portfolio Link](https://yourportfolio.com)  
+- 📧 Email: **yourmail@example.com**  
 
 ---
-
-<!-- Footer Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC5C7D,100:6A82FB&height=150&section=footer" />
-</p>
+✨ *“Code, Learn, Repeat – that’s my mantra!”* ✨
