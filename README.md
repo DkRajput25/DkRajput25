@@ -10,7 +10,7 @@
 - 💻 Currently working on **Java Projects & DSA**  
 - 🚀 Exploring **Spring Boot, Microservices & React**  
 - 📚 Love learning **CS Subjects (OS, DBMS, CN, etc.)**  
-- 🎤 Fun fact: I once conducted a **JavaScript workshop in college**  
+
 
 ---
 
