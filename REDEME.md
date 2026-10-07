@@ -2,7 +2,7 @@
 
 # DIKSHANT CHAUHAN
 
-### Java Backend Developer
+### `Java Backend Developer`
 
 **Java · Spring Boot · REST APIs · PostgreSQL · Docker · AI**
 
@@ -19,23 +19,27 @@ dikshant@github:~$ echo "build • learn • solve • repeat"
 
 <br>
 
+## `dikshant@github:~$ ./contributions.sh`
+
 <img src="./profile/contrib-heatmap.svg" width="900" alt="GitHub Contribution Activity">
 
 <br><br>
 
+## `dikshant@github:~$ neofetch`
+
 <table>
 <tr>
+
 <td width="48%" align="center" valign="middle">
 
-<img src="./profile/ascii.svg" width="420" alt="Animated ASCII Portrait">
+<img src="./profile/ascii.svg" width="420" alt="Animated ASCII Developer Portrait">
 
 </td>
 
 <td width="52%" align="left" valign="middle">
 
-### `dikshant@github`
-
 ```text
+dikshant@github
 ────────────────────────────
 
 NAME        Dikshant Chauhan
@@ -61,44 +65,45 @@ STATUS      Building & Learning
 ```
 
 </td>
+
 </tr>
 </table>
 
 <br>
 
-## `tech-stack`
+## `dikshant@github:~$ ./tech-stack.sh`
 
 <img src="./profile/tech-stack.svg" width="900" alt="Animated Technology Stack">
 
 <br>
 
-**Languages**
+### Languages
 
 Java · Python · JavaScript · C
 
-**Backend**
+### Backend
 
 Spring Boot · Spring Data JPA · Hibernate · REST APIs
 
-**Frontend**
+### Frontend
 
 React.js · HTML5 · CSS3 · Tailwind CSS
 
-**Database**
+### Database
 
 PostgreSQL · MySQL · pgvector
 
-**AI**
+### AI
 
 RAG · Google Gemini API · AI Integration
 
-**Tools**
+### Tools
 
 Git · GitHub · Docker · Postman · IntelliJ IDEA · VS Code
 
 <br>
 
-## `projects`
+## `dikshant@github:~$ ls ./projects`
 
 <table>
 <tr>
@@ -109,7 +114,7 @@ Git · GitHub · Docker · Postman · IntelliJ IDEA · VS Code
 
 **Online IDE**
 
-A multi-language online code execution platform.
+Multi-language online code execution platform.
 
 **Stack**
 
@@ -150,29 +155,29 @@ Java · Spring Boot · JPA · MySQL
 
 <br>
 
-## `current-focus`
+## `dikshant@github:~$ ./current-focus.sh`
 
 ```text
-Java & Spring Boot
-Backend Development
-Data Structures & Algorithms
-AI / RAG
-System Design
+> Java & Spring Boot
+> Backend Development
+> Data Structures & Algorithms
+> AI / RAG
+> System Design
 ```
 
 <br>
 
-## `about`
+## `dikshant@github:~$ cat about.txt`
 
-I'm a **Java Backend Developer** focused on building practical applications with
-**Java and Spring Boot**.
+I'm a **Java Backend Developer** focused on building practical applications
+with **Java and Spring Boot**.
 
 I enjoy working with REST APIs, databases, Docker and AI-powered applications.
 Currently improving my backend development, DSA and system design skills.
 
 <br>
 
-## `connect`
+## `dikshant@github:~$ connect`
 
 <a href="https://github.com/DkRajput25">
   <img src="https://img.shields.io/badge/GitHub-DkRajput25-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
