@@ -1,39 +1,64 @@
 <div align="center">
 
-# `Dikshant Chauhan`
+# DIKSHANT CHAUHAN
+
+### Java Backend Developer
+
+**Java · Spring Boot · REST APIs · PostgreSQL · Docker · AI**
+
+<br>
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  dikshant@github:~$ whoami                                  │
-│                                                              │
-│  > Java Backend Developer                                   │
-│  > Spring Boot • REST APIs • React • AI                     │
-│                                                              │
-│  dikshant@github:~$ echo "build. learn. solve. repeat."     │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+dikshant@github:~$ whoami
+
+Java Backend Developer
+Building backend systems with Java & Spring Boot
+
+dikshant@github:~$ echo "build • learn • solve • repeat"
 ```
 
-<h3><code>dikshant@github:~$ ./contributions.sh</code></h3>
+<br>
 
-<img src="./profile/contrib-heatmap.svg" width="860" alt="GitHub Contribution Activity">
+<img src="./profile/contrib-heatmap.svg" width="900" alt="GitHub Contribution Activity">
 
 <br><br>
 
-<h3><code>dikshant@github:~$ neofetch</code></h3>
-
 <table>
 <tr>
-<td width="42%" valign="middle" align="center">
+<td width="48%" align="center" valign="middle">
 
-<img src="./profile/ascii.svg" width="360" alt="Animated ASCII Developer Portrait">
+<img src="./profile/ascii.svg" width="420" alt="Animated ASCII Portrait">
 
 </td>
 
-<td width="58%" valign="middle">
+<td width="52%" align="left" valign="middle">
 
-<img src="./profile/info-card.svg" width="490" alt="Developer Information">
+### `dikshant@github`
+
+```text
+────────────────────────────
+
+NAME        Dikshant Chauhan
+ROLE        Java Backend Developer
+
+LANGUAGE    Java
+FRAMEWORK   Spring Boot
+API         REST APIs
+
+DATABASE    PostgreSQL
+            MySQL
+
+AI          RAG
+            Gemini
+
+TOOLS       Docker
+            Git
+            Postman
+
+STATUS      Building & Learning
+
+────────────────────────────
+```
 
 </td>
 </tr>
@@ -41,99 +66,126 @@
 
 <br>
 
-<h3><code>dikshant@github:~$ cat about.txt</code></h3>
+## `tech-stack`
+
+<img src="./profile/tech-stack.svg" width="900" alt="Animated Technology Stack">
+
+<br>
+
+**Languages**
+
+Java · Python · JavaScript · C
+
+**Backend**
+
+Spring Boot · Spring Data JPA · Hibernate · REST APIs
+
+**Frontend**
+
+React.js · HTML5 · CSS3 · Tailwind CSS
+
+**Database**
+
+PostgreSQL · MySQL · pgvector
+
+**AI**
+
+RAG · Google Gemini API · AI Integration
+
+**Tools**
+
+Git · GitHub · Docker · Postman · IntelliJ IDEA · VS Code
+
+<br>
+
+## `projects`
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### CodeSphere
+
+**Online IDE**
+
+A multi-language online code execution platform.
+
+**Stack**
+
+Java · Spring Boot · React · Docker · Gemini AI
+
+</td>
+
+<td width="33%" valign="top">
+
+### DocMind
+
+**AI Document Intelligence**
+
+RAG-based document processing and semantic search system.
+
+**Stack**
+
+Spring Boot · PostgreSQL · pgvector · AI
+
+</td>
+
+<td width="33%" valign="top">
+
+### Student REST API
+
+**Backend REST API**
+
+CRUD-based REST application built with Spring Boot.
+
+**Stack**
+
+Java · Spring Boot · JPA · MySQL
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+## `current-focus`
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  Java Backend Developer focused on building practical        │
-│  applications with Java and Spring Boot.                    │
-│                                                              │
-│  I work with REST APIs, databases, React and AI-powered      │
-│  applications.                                               │
-│                                                              │
-│  Currently improving my backend development, DSA and         │
-│  system design skills.                                       │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+Java & Spring Boot
+Backend Development
+Data Structures & Algorithms
+AI / RAG
+System Design
 ```
 
 <br>
 
-<h3><code>dikshant@github:~$ cat tech-stack.txt</code></h3>
+## `about`
 
-```text
-LANGUAGES
-Java • Python • JavaScript • C
+I'm a **Java Backend Developer** focused on building practical applications with
+**Java and Spring Boot**.
 
-BACKEND
-Spring Boot • Spring Data JPA • Hibernate • REST APIs
-
-FRONTEND
-React.js • HTML5 • CSS3 • Tailwind CSS
-
-DATABASE
-MySQL • PostgreSQL • pgvector
-
-AI
-RAG • Google Gemini API • AI Integration
-
-TOOLS
-Git • GitHub • Docker • Postman • IntelliJ IDEA • VS Code
-```
+I enjoy working with REST APIs, databases, Docker and AI-powered applications.
+Currently improving my backend development, DSA and system design skills.
 
 <br>
 
-<h3><code>dikshant@github:~$ ls ./projects</code></h3>
-
-```text
-01  CodeSphere
-    Online IDE • React • Spring Boot • Docker • Gemini AI
-
-02  DocMind
-    AI Document Intelligence • RAG • PostgreSQL • pgvector
-
-03  Student REST API
-    Spring Boot • REST API • JPA • MySQL
-```
-
-<br>
-
-<h3><code>dikshant@github:~$ ./current-focus.sh</code></h3>
-
-```text
-> Java & Spring Boot
-> Backend Development
-> Data Structures & Algorithms
-> AI / RAG
-> System Design
-```
-
-<br>
-
-<h3><code>dikshant@github:~$ connect</code></h3>
+## `connect`
 
 <a href="https://github.com/DkRajput25">
-  GitHub
+  <img src="https://img.shields.io/badge/GitHub-DkRajput25-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <br><br>
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  dikshant@github:~$ ./life.sh                               │
-│                                                              │
-│  > build                                                     │
-│  > learn                                                     │
-│  > solve                                                     │
-│  > repeat                                                    │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+build  →  learn  →  solve  →  repeat
 ```
 
 <br>
 
-<sub>Designed like a terminal. Built like a developer.</sub>
+<sub>Designed with code · Built with curiosity</sub>
 
 </div>
