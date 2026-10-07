@@ -1,39 +1,63 @@
 <div align="center">
 
-# `Dikshant Chauhan`
+# DIKSHANT CHAUHAN
+
+### `Java Backend Developer`
+
+**Java • Spring Boot • REST APIs • PostgreSQL • Docker • AI**
+
+<br>
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  dikshant@github:~$ whoami                                  │
-│                                                              │
-│  > Java Backend Developer                                   │
-│  > Spring Boot • REST APIs • React • AI                     │
-│                                                              │
-│  dikshant@github:~$ echo "build. learn. solve. repeat."     │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│  dikshant@github:~$ whoami                                      │
+│                                                                  │
+│  Java Backend Developer                                          │
+│  Building practical backend systems with Java & Spring Boot     │
+│                                                                  │
+│  dikshant@github:~$ echo "build • learn • solve • repeat"       │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
-<h3><code>dikshant@github:~$ ./contributions.sh</code></h3>
+<br>
 
-<img src="./profile/contrib-heatmap.svg" width="860" alt="GitHub Contribution Activity">
+## `dikshant@github:~$ ./contributions.sh`
+
+<img src="./profile/contrib-heatmap.svg" width="900" alt="GitHub Contribution Activity">
 
 <br><br>
 
-<h3><code>dikshant@github:~$ neofetch</code></h3>
+## `dikshant@github:~$ neofetch`
 
 <table>
 <tr>
-<td width="42%" valign="middle" align="center">
+<td width="45%" align="center" valign="middle">
 
-<img src="./profile/ascii.svg" width="360" alt="Animated ASCII Developer Portrait">
+<img src="./profile/ascii.svg" width="390" alt="Animated ASCII Developer Portrait">
 
 </td>
 
-<td width="58%" valign="middle">
+<td width="55%" align="left" valign="middle">
 
-<img src="./profile/info-card.svg" width="490" alt="Developer Information">
+```text
+┌──────────────────────────────────────┐
+│        dikshant@github               │
+│        ─────────────────             │
+│                                      │
+│  NAME       Dikshant Chauhan         │
+│  ROLE       Backend Developer        │
+│  LANGUAGE   Java                     │
+│  FRAMEWORK  Spring Boot              │
+│  API        REST APIs                │
+│  DATABASE   PostgreSQL • MySQL      │
+│  AI         RAG • Gemini             │
+│  TOOLS      Git • Docker • Postman  │
+│                                      │
+│  STATUS     Building & Learning      │
+└──────────────────────────────────────┘
+```
 
 </td>
 </tr>
@@ -41,65 +65,79 @@
 
 <br>
 
-<h3><code>dikshant@github:~$ cat about.txt</code></h3>
+## `dikshant@github:~$ ./tech-stack.sh`
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  Java Backend Developer focused on building practical        │
-│  applications with Java and Spring Boot.                    │
-│                                                              │
-│  I work with REST APIs, databases, React and AI-powered      │
-│  applications.                                               │
-│                                                              │
-│  Currently improving my backend development, DSA and         │
-│  system design skills.                                       │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+<img src="./profile/tech-stack.svg" width="900" alt="Animated Technology Stack">
 
 <br>
 
-<h3><code>dikshant@github:~$ cat tech-stack.txt</code></h3>
+### Languages
 
-```text
-LANGUAGES
-Java • Python • JavaScript • C
+`Java` `Python` `JavaScript` `C`
 
-BACKEND
-Spring Boot • Spring Data JPA • Hibernate • REST APIs
+### Backend
 
-FRONTEND
-React.js • HTML5 • CSS3 • Tailwind CSS
+`Spring Boot` `Spring Data JPA` `Hibernate` `REST APIs`
 
-DATABASE
-MySQL • PostgreSQL • pgvector
+### Frontend
 
-AI
-RAG • Google Gemini API • AI Integration
+`React.js` `HTML5` `CSS3` `Tailwind CSS`
 
-TOOLS
-Git • GitHub • Docker • Postman • IntelliJ IDEA • VS Code
-```
+### Database
 
-<br>
+`PostgreSQL` `MySQL` `pgvector`
 
-<h3><code>dikshant@github:~$ ls ./projects</code></h3>
+### AI
 
-```text
-01  CodeSphere
-    Online IDE • React • Spring Boot • Docker • Gemini AI
+`RAG` `Google Gemini API` `AI Integration`
 
-02  DocMind
-    AI Document Intelligence • RAG • PostgreSQL • pgvector
+### Tools
 
-03  Student REST API
-    Spring Boot • REST API • JPA • MySQL
-```
+`Git` `GitHub` `Docker` `Postman` `IntelliJ IDEA` `VS Code`
 
 <br>
 
-<h3><code>dikshant@github:~$ ./current-focus.sh</code></h3>
+## `dikshant@github:~$ ls ./projects`
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### CodeSphere
+
+**Online IDE**
+
+React + Spring Boot + Docker + Gemini AI
+
+</td>
+
+<td width="33%" valign="top">
+
+### DocMind
+
+**AI Document Intelligence**
+
+RAG + PostgreSQL + pgvector
+
+</td>
+
+<td width="33%" valign="top">
+
+### Student REST API
+
+**Backend REST API**
+
+Spring Boot + JPA + MySQL
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+## `dikshant@github:~$ ./current-focus.sh`
 
 ```text
 > Java & Spring Boot
@@ -111,29 +149,38 @@ Git • GitHub • Docker • Postman • IntelliJ IDEA • VS Code
 
 <br>
 
-<h3><code>dikshant@github:~$ connect</code></h3>
+## `dikshant@github:~$ cat about.txt`
+
+I'm a **Java Backend Developer** focused on building practical applications with **Java and Spring Boot**.
+
+I enjoy working with REST APIs, databases, Docker and AI-powered applications.  
+Currently improving my backend development, DSA and system design skills.
+
+<br>
+
+## `dikshant@github:~$ connect`
 
 <a href="https://github.com/DkRajput25">
-  GitHub
+  <img src="https://img.shields.io/badge/GitHub-DkRajput25-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <br><br>
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  dikshant@github:~$ ./life.sh                               │
-│                                                              │
-│  > build                                                     │
-│  > learn                                                     │
-│  > solve                                                     │
-│  > repeat                                                    │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│  dikshant@github:~$ ./life.sh                                  │
+│                                                                  │
+│  > build                                                         │
+│  > learn                                                         │
+│  > solve                                                         │
+│  > repeat                                                        │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
 <br>
 
-<sub>Designed like a terminal. Built like a developer.</sub>
+<sub>Designed like a terminal • Built like a developer</sub>
 
 </div>

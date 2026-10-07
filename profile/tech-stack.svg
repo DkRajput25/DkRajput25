@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="882"
+     height="298"
+     viewBox="0 0 882 298">
+
+<style>
+
+.card {
+    fill: #0d1117;
+    stroke: #30363d;
+    stroke-width: 1.5;
+    opacity: 0;
+    animation: appear 0.6s ease-out forwards;
+}
+
+.icon {
+    fill: #58a6ff;
+    font-family: Arial, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.name {
+    fill: #c9d1d9;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+@keyframes appear {
+    from {
+        opacity: 0;
+        transform: translateY(15px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+</style>
+
+<rect width="100%" height="100%"
+      rx="16"
+      fill="#010409"/>
+
+
+<g style="animation-delay:0.00s">
+
+    <rect
+        class="card"
+        x="0"
+        y="0"
+        width="210"
+        height="90"
+        rx="12"
+    />
+
+    <text
+        class="icon"
+        x="25"
+        y="38"
+    >☕</text>
+
+    <text
+        class="name"
+        x="70"
+        y="37"
+    >Java</text>
+
+</g>
+
+<g style="animation-delay:0.12s">
+
+    <rect
+        class="card"
+        x="224"
+        y="0"
+        width="210"
+        height="90"
+        rx="12"
+    />
+
+    <text
+        class="icon"
+        x="249"
+        y="38"
+    >🍃</text>
+
+    <text
+        class="name"
+        x="294"
+        y="37"
+    >Spring Boot</text>
+
+</g>
+
+<g style="animation-delay:0.24s">
+
+    <rect
+        class="card"
+        x="448"
+        y="0"
+        width="210"
+        height="90"
+        rx="12"
+    />
+
+    <text
+        class="icon"
+        x="473"
+        y="38"
+    >⚛</text>
+
+    <text
+        class="name"
+        x="518"
+        y="37"
+    >React</text>
+
+</g>
+
+<g style="animation-delay:0.36s">
+
+    <rect
+        class="card"
+        x="672"
+        y="0"
+        width="210"
+        height="90"
+        rx="12"
+    />
+
+    <text
+        class="icon"
+        x="697"
+        y="38"
+    >🐍</text>
+
+    <text
+        class="name"
+        x="742"
+        y="37"
+    >Python</text>
+
+</g>
+
+<g style="animation-delay:0.48s">
+
+    <rect
+        class="card"
+        x="0"
+        y="104"
+        width="210"
+        height="90"
+        rx="12"
+    />
+
+    <text
+        class="icon"
+        x="25"
+        y="142"
+    >JS</text>
+
+    <text
+        class="name"
+        x="70"
+        y="141"
+    >JavaScript</text>
+
+</g>
+
+<g style="animation-delay:0.60s">
+
+    <rect
+        class="card"
+        x="224"
+        y="104"
+        width="210"
+        height="90"
+        rx="12"
+    />
+
+    <text
+        class="icon"
+        x="249"
+        y="142"
+    >C</text>
+
+    <text
+        class="name"
+        x="294"
+        y="141"
+    >C</text>
+
+</g>
+
+<g style="animation-delay:0.72s">
+
+    <rect
+        class="card"
+        x="448"
+        y="104"
+        width="210"
+        height="90"
+        rx="12"
+    />
+
+    <text
+        class="icon"
+        x="473"
+        y="142"
+    >PG</text>
+
+    <text
+        class="name"
+        x="518"
+        y="141"
+    >PostgreSQL</text>
+
+</g>
+
+<g style="animation-delay:0.84s">
+
+    <rect
+        class="card"
+        x="672"
+        y="104"
+        width="210"
+        height="90"
+        rx="12"
+    />
+
+    <text
+        class="icon"
+        x="697"
+        y="142"
+    >SQL</text>
+
+    <text
+        class="name"
+        x="742"
+        y="141"
+    >MySQL</text>
+
+</g>
+
+<g style="animation-delay:0.96s">
+
+    <rect
+        class="card"
+        x="0"
+        y="208"
+        width="210"
+        height="90"
+        rx="12"
+    />
+
+    <text
+        class="icon"
+        x="25"
+        y="246"
+    >◆</text>
+
+    <text
+        class="name"
+        x="70"
+        y="245"
+    >Docker</text>
+
+</g>
+
+<g style="animation-delay:1.08s">
+
+    <rect
+        class="card"
+        x="224"
+        y="208"
+        width="210"
+        height="90"
+        rx="12"
+    />
+
+    <text
+        class="icon"
+        x="249"
+        y="246"
+    >G</text>
+
+    <text
+        class="name"
+        x="294"
+        y="245"
+    >Git</text>
+
+</g>
+
+<g style="animation-delay:1.20s">
+
+    <rect
+        class="card"
+        x="448"
+        y="208"
+        width="210"
+        height="90"
+        rx="12"
+    />
+
+    <text
+        class="icon"
+        x="473"
+        y="246"
+    >GH</text>
+
+    <text
+        class="name"
+        x="518"
+        y="245"
+    >GitHub</text>
+
+</g>
+
+<g style="animation-delay:1.32s">
+
+    <rect
+        class="card"
+        x="672"
+        y="208"
+        width="210"
+        height="90"
+        rx="12"
+    />
+
+    <text
+        class="icon"
+        x="697"
+        y="246"
+    >P</text>
+
+    <text
+        class="name"
+        x="742"
+        y="245"
+    >Postman</text>
+
+</g>
+
+</svg>
